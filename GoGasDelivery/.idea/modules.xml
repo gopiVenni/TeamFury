@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoGasDelivery.iml" filepath="$PROJECT_DIR$/GoGasDelivery.iml" group="GoGasDelivery" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="GoGasDelivery/app" />
+      <module fileurl="file://$PROJECT_DIR$/loadingballs/loadingballs.iml" filepath="$PROJECT_DIR$/loadingballs/loadingballs.iml" group="GoGasDelivery/loadingballs" />
+    </modules>
+  </component>
+</project>

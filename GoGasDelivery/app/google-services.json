@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1031036869428",
+    "firebase_url": "https://gogasdelivery.firebaseio.com",
+    "project_id": "gogasdelivery",
+    "storage_bucket": "gogasdelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031036869428:android:ff0fc4096885c64e672361",
+        "android_client_info": {
+          "package_name": "com.gogas.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031036869428-r933o3aopj9sbf4evrp2956832ij9m6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gogas.delivery",
+            "certificate_hash": "2701563a798da5b73b4a6809dbcef401cc0497e9"
+          }
+        },
+        {
+          "client_id": "1031036869428-fbssjuv847vg1i8lelqb9g1npvgu5mbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gogas.delivery",
+            "certificate_hash": "6ad98db7c64851d012723ff8d1c6d9c391e94799"
+          }
+        },
+        {
+          "client_id": "1031036869428-p3lbo78kjrc6rrt6fkq4ros3qv6rg6jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwa0fv0YaAbhck3rqOQ0oiUtOHdZu85Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031036869428-p3lbo78kjrc6rrt6fkq4ros3qv6rg6jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

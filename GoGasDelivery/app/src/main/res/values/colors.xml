@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d0313d</color>
+    <color name="colorPrimaryDark">#d0313d</color>
+    <color name="colorAccent">#d0313d</color>
+    <!--<color name="colorAccent">#df3b3c</color>-->
+
+
+
+    <color name="booking_text1">#cccccc</color>
+    <color name="booking_text2">#656565</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#eeeeee</color>
+    <color name="blue">#1081df</color>
+    <color name="green">#00a652</color>
+
+    <color name="ball1">#FFD91C</color>
+    <color name="ball2">#FF4B4A</color>
+    <color name="ball3">#3D8EFF</color>
+
+    <color name="semi_white">#99FFFFFF</color>
+</resources>
